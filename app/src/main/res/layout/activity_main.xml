@@ -16,4 +16,11 @@
         android:layout_height="wrap_content"
         android:text="抽象类传递数据"
         android:onClick="button1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="库"
+        android:onClick="button2"/>
+
 </LinearLayout>
